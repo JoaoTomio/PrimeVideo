@@ -1,6 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Quicksand&family=Source+Sans+Pro:wght@300&display=swap');
-@import url('//db.onlinewebfonts.com/c/3108eb4da4655a215801f0f4ed03ab1b?family=Amazon+Ember');
-
 * {
     margin: 0;
     padding: 0;
@@ -17,7 +15,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Amazon Ember";
+    font-family: "Open Sans", sans-serif;
     scroll-behavior: smooth;
 }
 
